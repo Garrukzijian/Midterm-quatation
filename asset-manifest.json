@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Midteam-quotataion/static/css/main.56e6221f.css",
-    "main.js": "/Midteam-quotataion/static/js/main.3f405f69.js",
-    "static/js/787.08da95b7.chunk.js": "/Midteam-quotataion/static/js/787.08da95b7.chunk.js",
-    "index.html": "/Midteam-quotataion/index.html",
-    "main.56e6221f.css.map": "/Midteam-quotataion/static/css/main.56e6221f.css.map",
-    "main.3f405f69.js.map": "/Midteam-quotataion/static/js/main.3f405f69.js.map",
-    "787.08da95b7.chunk.js.map": "/Midteam-quotataion/static/js/787.08da95b7.chunk.js.map"
+    "main.css": "/Midterm-quatation/static/css/main.56e6221f.css",
+    "main.js": "/Midterm-quatation/static/js/main.34468218.js",
+    "static/js/787.08da95b7.chunk.js": "/Midterm-quatation/static/js/787.08da95b7.chunk.js",
+    "index.html": "/Midterm-quatation/index.html",
+    "main.56e6221f.css.map": "/Midterm-quatation/static/css/main.56e6221f.css.map",
+    "main.34468218.js.map": "/Midterm-quatation/static/js/main.34468218.js.map",
+    "787.08da95b7.chunk.js.map": "/Midterm-quatation/static/js/787.08da95b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e6221f.css",
-    "static/js/main.3f405f69.js"
+    "static/js/main.34468218.js"
   ]
 }
