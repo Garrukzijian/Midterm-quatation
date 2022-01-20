@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Midterm-quatation/static/css/main.56e6221f.css",
-    "main.js": "/Midterm-quatation/static/js/main.97f66b73.js",
+    "main.js": "/Midterm-quatation/static/js/main.c96fe8e7.js",
     "static/js/787.08da95b7.chunk.js": "/Midterm-quatation/static/js/787.08da95b7.chunk.js",
     "index.html": "/Midterm-quatation/index.html",
     "main.56e6221f.css.map": "/Midterm-quatation/static/css/main.56e6221f.css.map",
-    "main.97f66b73.js.map": "/Midterm-quatation/static/js/main.97f66b73.js.map",
+    "main.c96fe8e7.js.map": "/Midterm-quatation/static/js/main.c96fe8e7.js.map",
     "787.08da95b7.chunk.js.map": "/Midterm-quatation/static/js/787.08da95b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e6221f.css",
-    "static/js/main.97f66b73.js"
+    "static/js/main.c96fe8e7.js"
   ]
 }
